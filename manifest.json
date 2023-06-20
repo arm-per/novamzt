@@ -1,0 +1,19 @@
+{
+    "autor": "Laboratorio Nova Mazatlán",
+    "background_color": "#0063AD",
+    "description": "Web Laboratorio Nova Mazatlán",
+    "developer": "Armando Pérez | armper.95@gmail.com",
+    "homepage_url": "/",
+    "icons": [
+        {
+            "src": "/assets/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "name": "Laboratorio Nova Mazatlán",
+    "manifest_version": 3,
+    "short_name": "Nova Mazatlán",
+    "version": "1.0.0",
+    "display": "standalone"
+}
